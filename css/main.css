@@ -1,0 +1,30 @@
+@media (min-width: 768px){
+	.cFInicio{
+		min-height: 768px;
+		height: 100%;
+	}
+}
+body{
+	background-image:url('../img/leaf.png');
+}
+
+.cInicio{
+	background-color:#4CCD98;
+}
+.cMod1{
+	background-color:#FF3;
+	max-height:500px;
+}
+.cMod2{
+	background-color:#FF4;
+	max-height:500px;
+}
+.cMod3{
+	background-color:#FF5;
+	max-height:500px;
+}
+
+.trans{
+	opacity: 0.4;
+    filter: alpha(opacity=40);
+}
